@@ -1,0 +1,6 @@
+CLIENT_ID  = "74404d8e-40da-477a-89b0-faaa397c3064"
+TENANT_ID = "e82f8725-b5da-482c-9a64-b898dbda07b7"
+CLIENT_SECRET = "acbIkEAd.a._2-h4c37aqC2.BAfZX9.~23"
+SUBSCRIPTION_ID = "96872890-beed-4e97-aa58-f24ae266278c"
+RESOURCE_GROUP_NAME = "rg-kubernetes-dev-001"
+AZURE_REGION = "canadacentral"
